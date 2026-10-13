@@ -1,4 +1,4 @@
-// Q.no 2 : find length of linked list
+// Q.no 2 : find length of a singly linked list
 // 10 -> 20 -> 30 -> 40
 
 #include<bits/stdc++.h>
