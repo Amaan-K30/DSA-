@@ -9,7 +9,7 @@ int rear = -1;
 
 void push(int x)
 {
-    if(rear == 4)
+    if(rear == 4) 
     {
         cout << "Overflow" << endl;
     }
